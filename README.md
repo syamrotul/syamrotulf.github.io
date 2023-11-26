@@ -1,5 +1,3 @@
-# syamrotulf.github.io
-<!DOCTYPE html>
 <html>
     <head><title>SYAMROTUL</title></head>
 <body>
